@@ -1,0 +1,5 @@
+pandas
+textstat
+nltk
+selenium
+beautifulsoup4
